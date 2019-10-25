@@ -1,9 +1,26 @@
 #!/usr/bin/env python3
-import json
-import os
-import shlex
-import subprocess
 from http.server import HTTPServer, BaseHTTPRequestHandler
+import json
+import marshal
+import os
+#import shlex
+import signal
+import subprocess
+import sys
+
+database = {}
+
+
+def signal_handler(signal, frame):
+    print("\nApplication shutdown requested, writing database to disk...")
+    json.dump(database, open("database.json", "w"))
+    print("Done.")
+    sys.exit(0)
+
+
+signal.signal(signal.SIGINT, signal_handler)
+
+HTML_TEXT = open("index.html").read()
 
 
 class S(BaseHTTPRequestHandler):
@@ -21,7 +38,7 @@ class S(BaseHTTPRequestHandler):
 
     def do_GET(self):
         self._set_headers()
-        self.wfile.write(self._html("hi!"))
+        self.wfile.write(HTML_TEXT.encode("utf-8"))
 
     def do_HEAD(self):
         self._set_headers()
@@ -30,9 +47,17 @@ class S(BaseHTTPRequestHandler):
         # Doesn't do anything with posted data
         content_length = int(self.headers['Content-Length'])
         post_data = self.rfile.read(content_length)
-        post_str = json.loads(post_data)
+        try:
+            post_str = json.loads(post_data)
+        except json.decoder.JSONDecodeError as e:
+            post_str = {'cmd': ''}
         print("posted", post_str)
-
+        if post_str["cmd"] == "store":
+            database[post_str['id']] = post_str
+            print("stored")
+        elif post_str["cmd"] == "paste":
+            # do in thread?
+            start_pasting()
         self._set_headers()
         self.wfile.write(self._html("POST!"))
 
@@ -49,7 +74,7 @@ META_TAG = '<meta http-equiv="content-type" content="text/html; charset=utf-8">'
 
 
 def make_rnd_id():
-    return os.urandom(2).hex()
+    return os.urandom(4).hex()
 
 
 def paste():
@@ -58,7 +83,7 @@ def paste():
 
 def copy(vector):
     i = make_rnd_id()
-    combined = META_TAG + '\n' + i + '\nFREDMARKER\n' + vector
+    combined = META_TAG + '0FREDMARKER' + i + 'FREDMARKER' + vector
     args = ["copyq", "copy", "text/html", combined]  # , "text/plain", i]
 
     print(args)
@@ -69,11 +94,15 @@ def make_simple_tag(tagname):
     return "<{}>hi</{}>".format(tagname, tagname)
 
 
-for el in ["a", "b", "c", "d", "em", "k", "i", "l", "q", "s"]:
-    h = make_simple_tag(el)
-    print(h)
-# copy(h)
-# paste()
+def start_pasting():
+    all = open("elements.txt", "r").read()
+
+    for el in all.split("\n"):
+        h = make_simple_tag(el)
+        print(h)
+        copy(h)
+        paste()
+
 
 run()
 

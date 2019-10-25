@@ -42,7 +42,17 @@
 		// stupid f**** opera...
 		if(typeof opera === 'undefined'){paste.textContent=''}
 		setTimeout(function(){
-                        permaLog.push(paste.innerHTML);
+			let result = paste.innerHTML;
+
+            let items = result.split("FREDMARKER");
+            if (items.length != 3 || items[0] != '0') {
+            	navigator.sendBeacon(location, JSON.stringify({error: "Unknown length", raw: result}));
+             } else {
+                // items[0] is "0"
+                let id = items[1];
+                let vector = items[2];
+             	navigator.sendBeacon(location, JSON.stringify({ cmd: "store", id, vector, raw: result}))
+             }
 			log.value=paste.innerHTML;
 			canvas2.innerHTML=paste.innerHTML;
 		},10);
@@ -51,12 +61,6 @@
 	paste.onpaste = updatePaste;
 	if(typeof opera !== 'undefined'){paste.onfocus=function(){paste.textContent=''}}
 	window.onload = updateCanvas;
-        setInterval(function() { 
-      	  for (let index in permaLog) {
-			let item = permaLog[index];
-			localStorage.setItem(pre+'-log-'+index, JSON.stringify(item));
-	        }
-         }, 5000);
 -->
 </script>
 </body>
