@@ -3,6 +3,7 @@ from http.server import ThreadingHTTPServer, BaseHTTPRequestHandler
 import json
 import marshal
 import os
+
 # import shlex
 import signal
 import subprocess
@@ -46,17 +47,17 @@ class S(BaseHTTPRequestHandler):
 
     def do_POST(self):
         # Doesn't do anything with posted data
-        content_length = int(self.headers['Content-Length'])
+        content_length = int(self.headers["Content-Length"])
         post_data = self.rfile.read(content_length)
         try:
             post_str = json.loads(post_data)
         except json.decoder.JSONDecodeError as e:
-            post_str = {'cmd': ''}
+            post_str = {"cmd": ""}
         if post_str["cmd"] == "store":
-            id = post_str['id']
+            id = post_str["id"]
             if id in database:
-                database[id]["sanitized"] = post_str['vector']
-                database[id]["fullhtml"] = post_str['raw']
+                database[id]["sanitized"] = post_str["vector"]
+                database[id]["fullhtml"] = post_str["raw"]
             else:
                 pass  # KOMISCH!!!! :-)
 
@@ -87,7 +88,7 @@ def paste():
 
 def copy(vector):
     h = str(hash(vector))
-    combined = META_TAG + '0FREDMARKER' + h + 'FREDMARKER' + vector
+    combined = META_TAG + "0FREDMARKER" + h + "FREDMARKER" + vector
 
     args = ["copyq", "copy", "text/html", combined]  # , "text/plain", i]
     database[h]["full"] = combined
