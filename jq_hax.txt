@@ -1,0 +1,1 @@
+jq .[] | select(.sanitized != "hi") | select(.sanitized != "") | .elementname < database.json
