@@ -3,7 +3,7 @@ from http.server import ThreadingHTTPServer, BaseHTTPRequestHandler
 import json
 import marshal
 import os
-#import shlex
+# import shlex
 import signal
 import subprocess
 import sys
@@ -58,7 +58,7 @@ class S(BaseHTTPRequestHandler):
                 database[id]["sanitized"] = post_str['vector']
                 database[id]["fullhtml"] = post_str['raw']
             else:
-                pass # KOMISCH!!!! :-)
+                pass  # KOMISCH!!!! :-)
 
         elif post_str["cmd"] == "paste":
             start_pasting()
@@ -104,7 +104,7 @@ def start_pasting():
     for el in all.split("\n"):
         vector = make_simple_tag(el)
         h = str(hash(vector))
-        database[h] = {"vector" : vector, "elementname": el}
+        database[h] = {"vector": vector, "elementname": el}
         copy(vector)
         paste()
         sleep(0.1)
