@@ -20,6 +20,7 @@
 <textarea placeholder="4th: view the resulting HTML *after* copy&amp;paste" id="log"></textarea>
 <hr />
 <div id="canvas2"></div>
+<button id="startpaste" style="position: absolute;right: 0px;top: 0px;">Paste All</button>
 <script>
 <!--
 	var html = document.getElementById('html');
@@ -27,8 +28,9 @@
 	var copy = document.getElementById('copy');
 	var paste = document.getElementById('paste');
 	var canvas2 = document.getElementById('canvas2');
-        var permaLog = [];
-        var pre = (Math.random()*10e16).toString(36);
+
+    var permaLog = [];
+    var pre = (Math.random()*10e16).toString(36);
 	location.hash.length > 1 ? html.value = location.hash.slice(1) : false; 
 	location.hash = '';
     if(top!==self){document.getElementById('xdom').innerHTML=''}
@@ -52,11 +54,21 @@
                 let id = items[1];
                 let vector = items[2];
              	navigator.sendBeacon(location, JSON.stringify({ cmd: "store", id, vector, raw: result}))
-             }
+            }
 			log.value=paste.innerHTML;
 			canvas2.innerHTML=paste.innerHTML;
 		},10);
-	};
+    };
+    var startPasting = function() {
+        // after 2 second delay:
+        // sends request to server to start batch copy&paste commands.
+        // expects user to focus the paste element and not to lose focus
+        setTimeout( (() =>
+            navigator.sendBeacon(location, JSON.stringify({cmd:"paste"})))
+        ,2000);
+    };
+    let pasteBtn = document.getElementById("startpaste");
+    pasteBtn.onclick = startPasting;
 	html.onkeyup  = updateCanvas;
 	paste.onpaste = updatePaste;
 	if(typeof opera !== 'undefined'){paste.onfocus=function(){paste.textContent=''}}

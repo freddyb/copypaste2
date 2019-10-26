@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-from http.server import HTTPServer, BaseHTTPRequestHandler
+from http.server import ThreadingHTTPServer, BaseHTTPRequestHandler
 import json
 import marshal
 import os
@@ -7,6 +7,7 @@ import os
 import signal
 import subprocess
 import sys
+from time import sleep
 
 database = {}
 
@@ -51,18 +52,21 @@ class S(BaseHTTPRequestHandler):
             post_str = json.loads(post_data)
         except json.decoder.JSONDecodeError as e:
             post_str = {'cmd': ''}
-        print("posted", post_str)
         if post_str["cmd"] == "store":
-            database[post_str['id']] = post_str
-            print("stored")
+            id = post_str['id']
+            if id in database:
+                database[id]["sanitized"] = post_str['vector']
+                database[id]["fullhtml"] = post_str['raw']
+            else:
+                pass # KOMISCH!!!! :-)
+
         elif post_str["cmd"] == "paste":
-            # do in thread?
             start_pasting()
         self._set_headers()
         self.wfile.write(self._html("POST!"))
 
 
-def run(server_class=HTTPServer, handler_class=S, addr="localhost", port=8000):
+def run(server_class=ThreadingHTTPServer, handler_class=S, addr="localhost", port=8000):
     server_address = (addr, port)
     httpd = server_class(server_address, handler_class)
 
@@ -82,12 +86,12 @@ def paste():
 
 
 def copy(vector):
-    i = make_rnd_id()
-    combined = META_TAG + '0FREDMARKER' + i + 'FREDMARKER' + vector
-    args = ["copyq", "copy", "text/html", combined]  # , "text/plain", i]
+    h = str(hash(vector))
+    combined = META_TAG + '0FREDMARKER' + h + 'FREDMARKER' + vector
 
-    print(args)
-    print(subprocess.run(args))
+    args = ["copyq", "copy", "text/html", combined]  # , "text/plain", i]
+    database[h]["full"] = combined
+    subprocess.run(args)
 
 
 def make_simple_tag(tagname):
@@ -98,27 +102,13 @@ def start_pasting():
     all = open("elements.txt", "r").read()
 
     for el in all.split("\n"):
-        h = make_simple_tag(el)
-        print(h)
-        copy(h)
+        vector = make_simple_tag(el)
+        h = str(hash(vector))
+        database[h] = {"vector" : vector, "elementname": el}
+        copy(vector)
         paste()
+        sleep(0.1)
+    print("Done paste blasting :-)")
 
 
 run()
-
-"""
-
-
-sleep 1
-copyq copy text/html '<meta http-equiv="content-type" content="text/html; charset=utf-8"><b id="a">l0rn</b>'
-sleep 1; copyq paste
-copyq copy text/html '<meta http-equiv="content-type" content="text/html; charset=utf-8"><a id="b">l0rn</a>'
-sleep 1; copyq paste
-copyq copy text/html '<meta http-equiv="content-type" content="text/html; charset=utf-8"><i id="c">l0rn</i>'
-sleep 1; copyq paste
-copyq copy text/html '<meta http-equiv="content-type" content="text/html; charset=utf-8"><s id="e">l0rn</s>'
-sleep 1; copyq paste
-copyq copy text/html '<meta http-equiv="content-type" content="text/html; charset=utf-8"><em id="d">l0rn</em>'
-sleep 1; copyq paste
-
-"""
