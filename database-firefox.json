@@ -1,0 +1,1455 @@
+{
+  "-2704022035682504829": {
+    "vector": "<>hi</>",
+    "elementname": "",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-2704022035682504829FREDMARKER<>hi</>",
+    "sanitized": "&lt;&gt;hi",
+    "fullhtml": "0FREDMARKER-2704022035682504829FREDMARKER&lt;&gt;hi"
+  },
+  "-2042075363291256979": {
+    "vector": "<a>hi</a>",
+    "elementname": "a",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-2042075363291256979FREDMARKER<a>hi</a>",
+    "sanitized": "<a>hi</a>",
+    "fullhtml": "0FREDMARKER-2042075363291256979FREDMARKER<a>hi</a>"
+  },
+  "77834563781713763": {
+    "vector": "<abbr>hi</abbr>",
+    "elementname": "abbr",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER77834563781713763FREDMARKER<abbr>hi</abbr>",
+    "sanitized": "<abbr>hi</abbr>",
+    "fullhtml": "0FREDMARKER77834563781713763FREDMARKER<abbr>hi</abbr>"
+  },
+  "-4627885699096125401": {
+    "vector": "<acronym>hi</acronym>",
+    "elementname": "acronym",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-4627885699096125401FREDMARKER<acronym>hi</acronym>",
+    "sanitized": "<acronym>hi</acronym>",
+    "fullhtml": "0FREDMARKER-4627885699096125401FREDMARKER<acronym>hi</acronym>"
+  },
+  "-2959474626135193352": {
+    "vector": "<address>hi</address>",
+    "elementname": "address",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-2959474626135193352FREDMARKER<address>hi</address>",
+    "sanitized": "<address>hi</address>",
+    "fullhtml": "0FREDMARKER-2959474626135193352FREDMARKER<address>hi</address>"
+  },
+  "-1807790623556309839": {
+    "vector": "<altglyph>hi</altglyph>",
+    "elementname": "altglyph",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-1807790623556309839FREDMARKER<altglyph>hi</altglyph>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER-1807790623556309839FREDMARKERhi"
+  },
+  "5849024172262747969": {
+    "vector": "<altglyphdef>hi</altglyphdef>",
+    "elementname": "altglyphdef",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER5849024172262747969FREDMARKER<altglyphdef>hi</altglyphdef>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER5849024172262747969FREDMARKERhi"
+  },
+  "8817558719039181174": {
+    "vector": "<altglyphitem>hi</altglyphitem>",
+    "elementname": "altglyphitem",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER8817558719039181174FREDMARKER<altglyphitem>hi</altglyphitem>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER8817558719039181174FREDMARKERhi"
+  },
+  "4964786518723062261": {
+    "vector": "<animatecolor>hi</animatecolor>",
+    "elementname": "animatecolor",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER4964786518723062261FREDMARKER<animatecolor>hi</animatecolor>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER4964786518723062261FREDMARKERhi"
+  },
+  "1336737681236193044": {
+    "vector": "<animatemotion>hi</animatemotion>",
+    "elementname": "animatemotion",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER1336737681236193044FREDMARKER<animatemotion>hi</animatemotion>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER1336737681236193044FREDMARKERhi"
+  },
+  "5144987860764035266": {
+    "vector": "<animatetransform>hi</animatetransform>",
+    "elementname": "animatetransform",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER5144987860764035266FREDMARKER<animatetransform>hi</animatetransform>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER5144987860764035266FREDMARKERhi"
+  },
+  "-8457686790497428226": {
+    "vector": "<area>hi</area>",
+    "elementname": "area",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-8457686790497428226FREDMARKER<area>hi</area>",
+    "sanitized": "<area>hi",
+    "fullhtml": "0FREDMARKER-8457686790497428226FREDMARKER<area>hi"
+  },
+  "-1170194871648465490": {
+    "vector": "<article>hi</article>",
+    "elementname": "article",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-1170194871648465490FREDMARKER<article>hi</article>",
+    "sanitized": "<article>hi</article>",
+    "fullhtml": "0FREDMARKER-1170194871648465490FREDMARKER<article>hi</article>"
+  },
+  "-8950821639130584129": {
+    "vector": "<aside>hi</aside>",
+    "elementname": "aside",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-8950821639130584129FREDMARKER<aside>hi</aside>",
+    "sanitized": "<aside>hi</aside>",
+    "fullhtml": "0FREDMARKER-8950821639130584129FREDMARKER<aside>hi</aside>"
+  },
+  "5832473539924049515": {
+    "vector": "<audio>hi</audio>",
+    "elementname": "audio",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER5832473539924049515FREDMARKER<audio>hi</audio>",
+    "sanitized": "<audio controls=\"\">hi</audio>",
+    "fullhtml": "0FREDMARKER5832473539924049515FREDMARKER<audio controls=\"\">hi</audio>"
+  },
+  "-1907572343923569767": {
+    "vector": "<b>hi</b>",
+    "elementname": "b",
+    "sanitized": "<b>hi</b>",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-1907572343923569767FREDMARKER<b>hi</b>"
+  },
+  "-7002236205823165562": {
+    "vector": "<bdi>hi</bdi>",
+    "elementname": "bdi",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-7002236205823165562FREDMARKER<bdi>hi</bdi>",
+    "sanitized": "<bdi>hi</bdi>",
+    "fullhtml": "0FREDMARKER-7002236205823165562FREDMARKER<bdi>hi</bdi>"
+  },
+  "8324805453806808522": {
+    "vector": "<bdo>hi</bdo>",
+    "elementname": "bdo",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER8324805453806808522FREDMARKER<bdo>hi</bdo>",
+    "sanitized": "<bdo>hi</bdo>",
+    "fullhtml": "0FREDMARKER8324805453806808522FREDMARKER<bdo>hi</bdo>"
+  },
+  "-2247558298373597941": {
+    "vector": "<big>hi</big>",
+    "elementname": "big",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-2247558298373597941FREDMARKER<big>hi</big>",
+    "sanitized": "<big>hi</big>",
+    "fullhtml": "0FREDMARKER-2247558298373597941FREDMARKER<big>hi</big>"
+  },
+  "-2974683871105969363": {
+    "vector": "<blink>hi</blink>",
+    "elementname": "blink",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-2974683871105969363FREDMARKER<blink>hi</blink>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER-2974683871105969363FREDMARKERhi"
+  },
+  "-5050602190353236565": {
+    "vector": "<blockquote>hi</blockquote>",
+    "elementname": "blockquote",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-5050602190353236565FREDMARKER<blockquote>hi</blockquote>",
+    "sanitized": "<blockquote>hi</blockquote>",
+    "fullhtml": "0FREDMARKER-5050602190353236565FREDMARKER<blockquote>hi</blockquote>"
+  },
+  "-2468357730676418849": {
+    "vector": "<body>hi</body>",
+    "elementname": "body",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-2468357730676418849FREDMARKER<body>hi</body>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER-2468357730676418849FREDMARKERhi"
+  },
+  "311033698649029701": {
+    "vector": "<br>hi</br>",
+    "elementname": "br",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER311033698649029701FREDMARKER<br>hi</br>",
+    "sanitized": "<br>hi<br>",
+    "fullhtml": "0FREDMARKER311033698649029701FREDMARKER<br>hi<br>"
+  },
+  "827724255388555149": {
+    "vector": "<button>hi</button>",
+    "elementname": "button",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER827724255388555149FREDMARKER<button>hi</button>",
+    "sanitized": "<button>hi</button>",
+    "fullhtml": "0FREDMARKER827724255388555149FREDMARKER<button>hi</button>"
+  },
+  "-6912933644203959772": {
+    "vector": "<canvas>hi</canvas>",
+    "elementname": "canvas",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-6912933644203959772FREDMARKER<canvas>hi</canvas>",
+    "sanitized": "<canvas>hi</canvas>",
+    "fullhtml": "0FREDMARKER-6912933644203959772FREDMARKER<canvas>hi</canvas>"
+  },
+  "1147913836275206207": {
+    "vector": "<caption>hi</caption>",
+    "elementname": "caption",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER1147913836275206207FREDMARKER<caption>hi</caption>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER1147913836275206207FREDMARKERhi"
+  },
+  "5607240338015613910": {
+    "vector": "<center>hi</center>",
+    "elementname": "center",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER5607240338015613910FREDMARKER<center>hi</center>",
+    "sanitized": "<center>hi</center>",
+    "fullhtml": "0FREDMARKER5607240338015613910FREDMARKER<center>hi</center>"
+  },
+  "6519408714404314070": {
+    "vector": "<circle>hi</circle>",
+    "elementname": "circle",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER6519408714404314070FREDMARKER<circle>hi</circle>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER6519408714404314070FREDMARKERhi"
+  },
+  "5270941201513755769": {
+    "vector": "<cite>hi</cite>",
+    "elementname": "cite",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER5270941201513755769FREDMARKER<cite>hi</cite>",
+    "sanitized": "<cite>hi</cite>",
+    "fullhtml": "0FREDMARKER5270941201513755769FREDMARKER<cite>hi</cite>"
+  },
+  "-1451903832705117106": {
+    "vector": "<clippath>hi</clippath>",
+    "elementname": "clippath",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-1451903832705117106FREDMARKER<clippath>hi</clippath>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER-1451903832705117106FREDMARKERhi"
+  },
+  "-7781158041159245986": {
+    "vector": "<code>hi</code>",
+    "elementname": "code",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-7781158041159245986FREDMARKER<code>hi</code>",
+    "sanitized": "<code>hi</code>",
+    "fullhtml": "0FREDMARKER-7781158041159245986FREDMARKER<code>hi</code>"
+  },
+  "-4462634838270286236": {
+    "vector": "<col>hi</col>",
+    "elementname": "col",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-4462634838270286236FREDMARKER<col>hi</col>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER-4462634838270286236FREDMARKERhi"
+  },
+  "-6668184520931105943": {
+    "vector": "<colgroup>hi</colgroup>",
+    "elementname": "colgroup",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-6668184520931105943FREDMARKER<colgroup>hi</colgroup>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER-6668184520931105943FREDMARKERhi"
+  },
+  "-5309427508172793565": {
+    "vector": "<content>hi</content>",
+    "elementname": "content",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-5309427508172793565FREDMARKER<content>hi</content>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER-5309427508172793565FREDMARKERhi"
+  },
+  "-776347381793524283": {
+    "vector": "<data>hi</data>",
+    "elementname": "data",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-776347381793524283FREDMARKER<data>hi</data>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER-776347381793524283FREDMARKERhi"
+  },
+  "-4571262299759032049": {
+    "vector": "<datalist>hi</datalist>",
+    "elementname": "datalist",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-4571262299759032049FREDMARKER<datalist>hi</datalist>",
+    "sanitized": "<datalist>hi</datalist>",
+    "fullhtml": "0FREDMARKER-4571262299759032049FREDMARKER<datalist>hi</datalist>"
+  },
+  "603219485140597687": {
+    "vector": "<dd>hi</dd>",
+    "elementname": "dd",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER603219485140597687FREDMARKER<dd>hi</dd>",
+    "sanitized": "<dd>hi</dd>",
+    "fullhtml": "0FREDMARKER603219485140597687FREDMARKER<dd>hi</dd>"
+  },
+  "-7662076368474492503": {
+    "vector": "<decorator>hi</decorator>",
+    "elementname": "decorator",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-7662076368474492503FREDMARKER<decorator>hi</decorator>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER-7662076368474492503FREDMARKERhi"
+  },
+  "723524692873998133": {
+    "vector": "<defs>hi</defs>",
+    "elementname": "defs",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER723524692873998133FREDMARKER<defs>hi</defs>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER723524692873998133FREDMARKERhi"
+  },
+  "-6145768054622774091": {
+    "vector": "<del>hi</del>",
+    "elementname": "del",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-6145768054622774091FREDMARKER<del>hi</del>",
+    "sanitized": "<del>hi</del>",
+    "fullhtml": "0FREDMARKER-6145768054622774091FREDMARKER<del>hi</del>"
+  },
+  "391584369253845364": {
+    "vector": "<desc>hi</desc>",
+    "elementname": "desc",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER391584369253845364FREDMARKER<desc>hi</desc>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER391584369253845364FREDMARKERhi"
+  },
+  "7370597035659666646": {
+    "vector": "<details>hi</details>",
+    "elementname": "details",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER7370597035659666646FREDMARKER<details>hi</details>",
+    "sanitized": "<details>hi</details>",
+    "fullhtml": "0FREDMARKER7370597035659666646FREDMARKER<details>hi</details>"
+  },
+  "-2859294633946065079": {
+    "vector": "<dfn>hi</dfn>",
+    "elementname": "dfn",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-2859294633946065079FREDMARKER<dfn>hi</dfn>",
+    "sanitized": "<dfn>hi</dfn>",
+    "fullhtml": "0FREDMARKER-2859294633946065079FREDMARKER<dfn>hi</dfn>"
+  },
+  "58991914317434943": {
+    "vector": "<dir>hi</dir>",
+    "elementname": "dir",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER58991914317434943FREDMARKER<dir>hi</dir>",
+    "sanitized": "<dir>hi</dir>",
+    "fullhtml": "0FREDMARKER58991914317434943FREDMARKER<dir>hi</dir>"
+  },
+  "-8223998140086245807": {
+    "vector": "<div>hi</div>",
+    "elementname": "div",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-8223998140086245807FREDMARKER<div>hi</div>",
+    "sanitized": "<div>hi</div>",
+    "fullhtml": "0FREDMARKER-8223998140086245807FREDMARKER<div>hi</div>"
+  },
+  "7031233885172979933": {
+    "vector": "<dl>hi</dl>",
+    "elementname": "dl",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER7031233885172979933FREDMARKER<dl>hi</dl>",
+    "sanitized": "<dl>hi</dl>",
+    "fullhtml": "0FREDMARKER7031233885172979933FREDMARKER<dl>hi</dl>"
+  },
+  "-3520422536225907014": {
+    "vector": "<dt>hi</dt>",
+    "elementname": "dt",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-3520422536225907014FREDMARKER<dt>hi</dt>",
+    "sanitized": "<dt>hi</dt>",
+    "fullhtml": "0FREDMARKER-3520422536225907014FREDMARKER<dt>hi</dt>"
+  },
+  "7372794057736383980": {
+    "vector": "<element>hi</element>",
+    "elementname": "element",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER7372794057736383980FREDMARKER<element>hi</element>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER7372794057736383980FREDMARKERhi"
+  },
+  "-3468766074139839249": {
+    "vector": "<ellipse>hi</ellipse>",
+    "elementname": "ellipse",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-3468766074139839249FREDMARKER<ellipse>hi</ellipse>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER-3468766074139839249FREDMARKERhi"
+  },
+  "245491251385479885": {
+    "vector": "<em>hi</em>",
+    "elementname": "em",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER245491251385479885FREDMARKER<em>hi</em>",
+    "sanitized": "<em>hi</em>",
+    "fullhtml": "0FREDMARKER245491251385479885FREDMARKER<em>hi</em>"
+  },
+  "-6345902750462642281": {
+    "vector": "<feBlend>hi</feBlend>",
+    "elementname": "feBlend",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-6345902750462642281FREDMARKER<feBlend>hi</feBlend>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER-6345902750462642281FREDMARKERhi"
+  },
+  "758790135571237722": {
+    "vector": "<feColorMatrix>hi</feColorMatrix>",
+    "elementname": "feColorMatrix",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER758790135571237722FREDMARKER<feColorMatrix>hi</feColorMatrix>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER758790135571237722FREDMARKERhi"
+  },
+  "3892537769059799145": {
+    "vector": "<feComponentTransfer>hi</feComponentTransfer>",
+    "elementname": "feComponentTransfer",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER3892537769059799145FREDMARKER<feComponentTransfer>hi</feComponentTransfer>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER3892537769059799145FREDMARKERhi"
+  },
+  "-4894673277746993699": {
+    "vector": "<feComposite>hi</feComposite>",
+    "elementname": "feComposite",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-4894673277746993699FREDMARKER<feComposite>hi</feComposite>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER-4894673277746993699FREDMARKERhi"
+  },
+  "2506916295048422999": {
+    "vector": "<feConvolveMatrix>hi</feConvolveMatrix>",
+    "elementname": "feConvolveMatrix",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER2506916295048422999FREDMARKER<feConvolveMatrix>hi</feConvolveMatrix>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER2506916295048422999FREDMARKERhi"
+  },
+  "-6038093814037239103": {
+    "vector": "<feDiffuseLighting>hi</feDiffuseLighting>",
+    "elementname": "feDiffuseLighting",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-6038093814037239103FREDMARKER<feDiffuseLighting>hi</feDiffuseLighting>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER-6038093814037239103FREDMARKERhi"
+  },
+  "5539963712982195567": {
+    "vector": "<feDisplacementMap>hi</feDisplacementMap>",
+    "elementname": "feDisplacementMap",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER5539963712982195567FREDMARKER<feDisplacementMap>hi</feDisplacementMap>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER5539963712982195567FREDMARKERhi"
+  },
+  "174362680125511599": {
+    "vector": "<feDistantLight>hi</feDistantLight>",
+    "elementname": "feDistantLight",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER174362680125511599FREDMARKER<feDistantLight>hi</feDistantLight>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER174362680125511599FREDMARKERhi"
+  },
+  "4686621235077613031": {
+    "vector": "<feFlood>hi</feFlood>",
+    "elementname": "feFlood",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER4686621235077613031FREDMARKER<feFlood>hi</feFlood>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER4686621235077613031FREDMARKERhi"
+  },
+  "1069701509642137744": {
+    "vector": "<feFuncA>hi</feFuncA>",
+    "elementname": "feFuncA",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER1069701509642137744FREDMARKER<feFuncA>hi</feFuncA>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER1069701509642137744FREDMARKERhi"
+  },
+  "-405537836759986080": {
+    "vector": "<feFuncB>hi</feFuncB>",
+    "elementname": "feFuncB",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-405537836759986080FREDMARKER<feFuncB>hi</feFuncB>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER-405537836759986080FREDMARKERhi"
+  },
+  "4491816433688107675": {
+    "vector": "<feFuncG>hi</feFuncG>",
+    "elementname": "feFuncG",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER4491816433688107675FREDMARKER<feFuncG>hi</feFuncG>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER4491816433688107675FREDMARKERhi"
+  },
+  "5657989215112277706": {
+    "vector": "<feFuncR>hi</feFuncR>",
+    "elementname": "feFuncR",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER5657989215112277706FREDMARKER<feFuncR>hi</feFuncR>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER5657989215112277706FREDMARKERhi"
+  },
+  "-8540332211710406567": {
+    "vector": "<feGaussianBlur>hi</feGaussianBlur>",
+    "elementname": "feGaussianBlur",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-8540332211710406567FREDMARKER<feGaussianBlur>hi</feGaussianBlur>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER-8540332211710406567FREDMARKERhi"
+  },
+  "-7904982437425211140": {
+    "vector": "<feMerge>hi</feMerge>",
+    "elementname": "feMerge",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-7904982437425211140FREDMARKER<feMerge>hi</feMerge>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER-7904982437425211140FREDMARKERhi"
+  },
+  "-4720396267532139201": {
+    "vector": "<feMergeNode>hi</feMergeNode>",
+    "elementname": "feMergeNode",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-4720396267532139201FREDMARKER<feMergeNode>hi</feMergeNode>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER-4720396267532139201FREDMARKERhi"
+  },
+  "-3765130698848517129": {
+    "vector": "<feMorphology>hi</feMorphology>",
+    "elementname": "feMorphology",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-3765130698848517129FREDMARKER<feMorphology>hi</feMorphology>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER-3765130698848517129FREDMARKERhi"
+  },
+  "5268578071570300821": {
+    "vector": "<feOffset>hi</feOffset>",
+    "elementname": "feOffset",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER5268578071570300821FREDMARKER<feOffset>hi</feOffset>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER5268578071570300821FREDMARKERhi"
+  },
+  "6948118746141306676": {
+    "vector": "<fePointLight>hi</fePointLight>",
+    "elementname": "fePointLight",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER6948118746141306676FREDMARKER<fePointLight>hi</fePointLight>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER6948118746141306676FREDMARKERhi"
+  },
+  "-1895791484015373399": {
+    "vector": "<feSpecularLighting>hi</feSpecularLighting>",
+    "elementname": "feSpecularLighting",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-1895791484015373399FREDMARKER<feSpecularLighting>hi</feSpecularLighting>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER-1895791484015373399FREDMARKERhi"
+  },
+  "6513325525289934073": {
+    "vector": "<feSpotLight>hi</feSpotLight>",
+    "elementname": "feSpotLight",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER6513325525289934073FREDMARKER<feSpotLight>hi</feSpotLight>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER6513325525289934073FREDMARKERhi"
+  },
+  "2527710776191240697": {
+    "vector": "<feTile>hi</feTile>",
+    "elementname": "feTile",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER2527710776191240697FREDMARKER<feTile>hi</feTile>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER2527710776191240697FREDMARKERhi"
+  },
+  "4986071439046730112": {
+    "vector": "<feTurbulence>hi</feTurbulence>",
+    "elementname": "feTurbulence",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER4986071439046730112FREDMARKER<feTurbulence>hi</feTurbulence>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER4986071439046730112FREDMARKERhi"
+  },
+  "5090570678036933543": {
+    "vector": "<fieldset>hi</fieldset>",
+    "elementname": "fieldset",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER5090570678036933543FREDMARKER<fieldset>hi</fieldset>",
+    "sanitized": "<fieldset>hi</fieldset>",
+    "fullhtml": "0FREDMARKER5090570678036933543FREDMARKER<fieldset>hi</fieldset>"
+  },
+  "1530587304776346216": {
+    "vector": "<figcaption>hi</figcaption>",
+    "elementname": "figcaption",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER1530587304776346216FREDMARKER<figcaption>hi</figcaption>",
+    "sanitized": "<figcaption>hi</figcaption>",
+    "fullhtml": "0FREDMARKER1530587304776346216FREDMARKER<figcaption>hi</figcaption>"
+  },
+  "6452798561995882223": {
+    "vector": "<figure>hi</figure>",
+    "elementname": "figure",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER6452798561995882223FREDMARKER<figure>hi</figure>",
+    "sanitized": "<figure>hi</figure>",
+    "fullhtml": "0FREDMARKER6452798561995882223FREDMARKER<figure>hi</figure>"
+  },
+  "4171998072063626826": {
+    "vector": "<filter>hi</filter>",
+    "elementname": "filter",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER4171998072063626826FREDMARKER<filter>hi</filter>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER4171998072063626826FREDMARKERhi"
+  },
+  "-2708996158246667720": {
+    "vector": "<font>hi</font>",
+    "elementname": "font",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-2708996158246667720FREDMARKER<font>hi</font>",
+    "sanitized": "<font>hi</font>",
+    "fullhtml": "0FREDMARKER-2708996158246667720FREDMARKER<font>hi</font>"
+  },
+  "-1333979164615621620": {
+    "vector": "<footer>hi</footer>",
+    "elementname": "footer",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-1333979164615621620FREDMARKER<footer>hi</footer>",
+    "sanitized": "<footer>hi</footer>",
+    "fullhtml": "0FREDMARKER-1333979164615621620FREDMARKER<footer>hi</footer>"
+  },
+  "-2432913298646349581": {
+    "vector": "<form>hi</form>",
+    "elementname": "form",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-2432913298646349581FREDMARKER<form>hi</form>",
+    "sanitized": "<form>hi</form>",
+    "fullhtml": "0FREDMARKER-2432913298646349581FREDMARKER<form>hi</form>"
+  },
+  "-5173996061757452716": {
+    "vector": "<g>hi</g>",
+    "elementname": "g",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-5173996061757452716FREDMARKER<g>hi</g>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER-5173996061757452716FREDMARKERhi"
+  },
+  "-201453793382173125": {
+    "vector": "<glyph>hi</glyph>",
+    "elementname": "glyph",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-201453793382173125FREDMARKER<glyph>hi</glyph>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER-201453793382173125FREDMARKERhi"
+  },
+  "3125169027398006808": {
+    "vector": "<glyphref>hi</glyphref>",
+    "elementname": "glyphref",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER3125169027398006808FREDMARKER<glyphref>hi</glyphref>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER3125169027398006808FREDMARKERhi"
+  },
+  "-7016387753444938152": {
+    "vector": "<h1>hi</h1>",
+    "elementname": "h1",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-7016387753444938152FREDMARKER<h1>hi</h1>",
+    "sanitized": "<h1>hi</h1>",
+    "fullhtml": "0FREDMARKER-7016387753444938152FREDMARKER<h1>hi</h1>"
+  },
+  "-7234709785693765911": {
+    "vector": "<h2>hi</h2>",
+    "elementname": "h2",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-7234709785693765911FREDMARKER<h2>hi</h2>",
+    "sanitized": "<h2>hi</h2>",
+    "fullhtml": "0FREDMARKER-7234709785693765911FREDMARKER<h2>hi</h2>"
+  },
+  "6311803781255364737": {
+    "vector": "<h3>hi</h3>",
+    "elementname": "h3",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER6311803781255364737FREDMARKER<h3>hi</h3>",
+    "sanitized": "<h3>hi</h3>",
+    "fullhtml": "0FREDMARKER6311803781255364737FREDMARKER<h3>hi</h3>"
+  },
+  "-1295423296785699692": {
+    "vector": "<h4>hi</h4>",
+    "elementname": "h4",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-1295423296785699692FREDMARKER<h4>hi</h4>",
+    "sanitized": "<h4>hi</h4>",
+    "fullhtml": "0FREDMARKER-1295423296785699692FREDMARKER<h4>hi</h4>"
+  },
+  "-2909157200104145211": {
+    "vector": "<h5>hi</h5>",
+    "elementname": "h5",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-2909157200104145211FREDMARKER<h5>hi</h5>",
+    "sanitized": "<h5>hi</h5>",
+    "fullhtml": "0FREDMARKER-2909157200104145211FREDMARKER<h5>hi</h5>"
+  },
+  "3167455140215538546": {
+    "vector": "<h6>hi</h6>",
+    "elementname": "h6",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER3167455140215538546FREDMARKER<h6>hi</h6>",
+    "sanitized": "<h6>hi</h6>",
+    "fullhtml": "0FREDMARKER3167455140215538546FREDMARKER<h6>hi</h6>"
+  },
+  "2658044963783144442": {
+    "vector": "<head>hi</head>",
+    "elementname": "head",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER2658044963783144442FREDMARKER<head>hi</head>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER2658044963783144442FREDMARKERhi"
+  },
+  "-3220470553540736459": {
+    "vector": "<header>hi</header>",
+    "elementname": "header",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-3220470553540736459FREDMARKER<header>hi</header>",
+    "sanitized": "<header>hi</header>",
+    "fullhtml": "0FREDMARKER-3220470553540736459FREDMARKER<header>hi</header>"
+  },
+  "8033376788242228995": {
+    "vector": "<hgroup>hi</hgroup>",
+    "elementname": "hgroup",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER8033376788242228995FREDMARKER<hgroup>hi</hgroup>",
+    "sanitized": "<hgroup>hi</hgroup>",
+    "fullhtml": "0FREDMARKER8033376788242228995FREDMARKER<hgroup>hi</hgroup>"
+  },
+  "-205538202778666367": {
+    "vector": "<hkern>hi</hkern>",
+    "elementname": "hkern",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-205538202778666367FREDMARKER<hkern>hi</hkern>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER-205538202778666367FREDMARKERhi"
+  },
+  "1006210515695971473": {
+    "vector": "<hr>hi</hr>",
+    "elementname": "hr",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER1006210515695971473FREDMARKER<hr>hi</hr>",
+    "sanitized": "<hr>hi",
+    "fullhtml": "0FREDMARKER1006210515695971473FREDMARKER<hr>hi"
+  },
+  "-7268776506275187162": {
+    "vector": "<html>hi</html>",
+    "elementname": "html",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-7268776506275187162FREDMARKER<html>hi</html>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER-7268776506275187162FREDMARKERhi"
+  },
+  "-4692345989913331929": {
+    "vector": "<i>hi</i>",
+    "elementname": "i",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-4692345989913331929FREDMARKER<i>hi</i>",
+    "sanitized": "<i>hi</i>",
+    "fullhtml": "0FREDMARKER-4692345989913331929FREDMARKER<i>hi</i>"
+  },
+  "-8825259676454550909": {
+    "vector": "<image>hi</image>",
+    "elementname": "image",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-8825259676454550909FREDMARKER<image>hi</image>",
+    "sanitized": "<img>hi",
+    "fullhtml": "0FREDMARKER-8825259676454550909FREDMARKER<img>hi"
+  },
+  "7215269015748456183": {
+    "vector": "<img>hi</img>",
+    "elementname": "img",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER7215269015748456183FREDMARKER<img>hi</img>",
+    "sanitized": "<img>hi",
+    "fullhtml": "0FREDMARKER7215269015748456183FREDMARKER<img>hi"
+  },
+  "4597023290255773592": {
+    "vector": "<input>hi</input>",
+    "elementname": "input",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER4597023290255773592FREDMARKER<input>hi</input>",
+    "sanitized": "<input>hi",
+    "fullhtml": "0FREDMARKER4597023290255773592FREDMARKER<input>hi"
+  },
+  "-4740202648655292924": {
+    "vector": "<ins>hi</ins>",
+    "elementname": "ins",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-4740202648655292924FREDMARKER<ins>hi</ins>",
+    "sanitized": "<ins>hi</ins>",
+    "fullhtml": "0FREDMARKER-4740202648655292924FREDMARKER<ins>hi</ins>"
+  },
+  "1591846537694786197": {
+    "vector": "<kbd>hi</kbd>",
+    "elementname": "kbd",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER1591846537694786197FREDMARKER<kbd>hi</kbd>",
+    "sanitized": "<kbd>hi</kbd>",
+    "fullhtml": "0FREDMARKER1591846537694786197FREDMARKER<kbd>hi</kbd>"
+  },
+  "-1641652534309209551": {
+    "vector": "<label>hi</label>",
+    "elementname": "label",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-1641652534309209551FREDMARKER<label>hi</label>",
+    "sanitized": "<label>hi</label>",
+    "fullhtml": "0FREDMARKER-1641652534309209551FREDMARKER<label>hi</label>"
+  },
+  "-2501287903868371671": {
+    "vector": "<legend>hi</legend>",
+    "elementname": "legend",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-2501287903868371671FREDMARKER<legend>hi</legend>",
+    "sanitized": "<legend>hi</legend>",
+    "fullhtml": "0FREDMARKER-2501287903868371671FREDMARKER<legend>hi</legend>"
+  },
+  "-8181176728075435055": {
+    "vector": "<li>hi</li>",
+    "elementname": "li",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-8181176728075435055FREDMARKER<li>hi</li>",
+    "sanitized": "<li>hi</li>",
+    "fullhtml": "0FREDMARKER-8181176728075435055FREDMARKER<li>hi</li>"
+  },
+  "6729463945129889913": {
+    "vector": "<line>hi</line>",
+    "elementname": "line",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER6729463945129889913FREDMARKER<line>hi</line>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER6729463945129889913FREDMARKERhi"
+  },
+  "-3091880982967312534": {
+    "vector": "<lineargradient>hi</lineargradient>",
+    "elementname": "lineargradient",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-3091880982967312534FREDMARKER<lineargradient>hi</lineargradient>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER-3091880982967312534FREDMARKERhi"
+  },
+  "-2708011031517887281": {
+    "vector": "<main>hi</main>",
+    "elementname": "main",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-2708011031517887281FREDMARKER<main>hi</main>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER-2708011031517887281FREDMARKERhi"
+  },
+  "3893190663065971959": {
+    "vector": "<map>hi</map>",
+    "elementname": "map",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER3893190663065971959FREDMARKER<map>hi</map>",
+    "sanitized": "<map>hi</map>",
+    "fullhtml": "0FREDMARKER3893190663065971959FREDMARKER<map>hi</map>"
+  },
+  "-197359457980248871": {
+    "vector": "<mark>hi</mark>",
+    "elementname": "mark",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-197359457980248871FREDMARKER<mark>hi</mark>",
+    "sanitized": "<mark>hi</mark>",
+    "fullhtml": "0FREDMARKER-197359457980248871FREDMARKER<mark>hi</mark>"
+  },
+  "-7497476121443432256": {
+    "vector": "<marker>hi</marker>",
+    "elementname": "marker",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-7497476121443432256FREDMARKER<marker>hi</marker>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER-7497476121443432256FREDMARKERhi"
+  },
+  "2810849565657288534": {
+    "vector": "<marquee>hi</marquee>",
+    "elementname": "marquee",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER2810849565657288534FREDMARKER<marquee>hi</marquee>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER2810849565657288534FREDMARKERhi"
+  },
+  "1338844859559687865": {
+    "vector": "<mask>hi</mask>",
+    "elementname": "mask",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER1338844859559687865FREDMARKER<mask>hi</mask>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER1338844859559687865FREDMARKERhi"
+  },
+  "-4619771019133220259": {
+    "vector": "<math>hi</math>",
+    "elementname": "math",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-4619771019133220259FREDMARKER<math>hi</math>",
+    "sanitized": "<math>hi</math>",
+    "fullhtml": "0FREDMARKER-4619771019133220259FREDMARKER<math>hi</math>"
+  },
+  "7955220578694036828": {
+    "vector": "<menclose>hi</menclose>",
+    "elementname": "menclose",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER7955220578694036828FREDMARKER<menclose>hi</menclose>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER7955220578694036828FREDMARKERhi"
+  },
+  "-8011221925224765594": {
+    "vector": "<menu>hi</menu>",
+    "elementname": "menu",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-8011221925224765594FREDMARKER<menu>hi</menu>",
+    "sanitized": "<menu>hi</menu>",
+    "fullhtml": "0FREDMARKER-8011221925224765594FREDMARKER<menu>hi</menu>"
+  },
+  "7816840802909476288": {
+    "vector": "<menuitem>hi</menuitem>",
+    "elementname": "menuitem",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER7816840802909476288FREDMARKER<menuitem>hi</menuitem>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER7816840802909476288FREDMARKERhi"
+  },
+  "6227648765004967672": {
+    "vector": "<merror>hi</merror>",
+    "elementname": "merror",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER6227648765004967672FREDMARKER<merror>hi</merror>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER6227648765004967672FREDMARKERhi"
+  },
+  "4117088120522652801": {
+    "vector": "<metadata>hi</metadata>",
+    "elementname": "metadata",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER4117088120522652801FREDMARKER<metadata>hi</metadata>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER4117088120522652801FREDMARKERhi"
+  },
+  "-6942409281992484710": {
+    "vector": "<meter>hi</meter>",
+    "elementname": "meter",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-6942409281992484710FREDMARKER<meter>hi</meter>",
+    "sanitized": "<meter>hi</meter>",
+    "fullhtml": "0FREDMARKER-6942409281992484710FREDMARKER<meter>hi</meter>"
+  },
+  "-2346005525260341618": {
+    "vector": "<mfenced>hi</mfenced>",
+    "elementname": "mfenced",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-2346005525260341618FREDMARKER<mfenced>hi</mfenced>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER-2346005525260341618FREDMARKERhi"
+  },
+  "-3018021267657903213": {
+    "vector": "<mfrac>hi</mfrac>",
+    "elementname": "mfrac",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-3018021267657903213FREDMARKER<mfrac>hi</mfrac>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER-3018021267657903213FREDMARKERhi"
+  },
+  "6854921184883303107": {
+    "vector": "<mglyph>hi</mglyph>",
+    "elementname": "mglyph",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER6854921184883303107FREDMARKER<mglyph>hi</mglyph>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER6854921184883303107FREDMARKERhi"
+  },
+  "-1303272352239115258": {
+    "vector": "<mi>hi</mi>",
+    "elementname": "mi",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-1303272352239115258FREDMARKER<mi>hi</mi>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER-1303272352239115258FREDMARKERhi"
+  },
+  "7180538273536384997": {
+    "vector": "<mlabeledtr>hi</mlabeledtr>",
+    "elementname": "mlabeledtr",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER7180538273536384997FREDMARKER<mlabeledtr>hi</mlabeledtr>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER7180538273536384997FREDMARKERhi"
+  },
+  "8074733932189679011": {
+    "vector": "<mmultiscripts>hi</mmultiscripts>",
+    "elementname": "mmultiscripts",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER8074733932189679011FREDMARKER<mmultiscripts>hi</mmultiscripts>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER8074733932189679011FREDMARKERhi"
+  },
+  "1022196836365412475": {
+    "vector": "<mn>hi</mn>",
+    "elementname": "mn",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER1022196836365412475FREDMARKER<mn>hi</mn>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER1022196836365412475FREDMARKERhi"
+  },
+  "6581010087110127434": {
+    "vector": "<mo>hi</mo>",
+    "elementname": "mo",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER6581010087110127434FREDMARKER<mo>hi</mo>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER6581010087110127434FREDMARKERhi"
+  },
+  "-3204753859957422776": {
+    "vector": "<mover>hi</mover>",
+    "elementname": "mover",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-3204753859957422776FREDMARKER<mover>hi</mover>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER-3204753859957422776FREDMARKERhi"
+  },
+  "-8710590633237742947": {
+    "vector": "<mpadded>hi</mpadded>",
+    "elementname": "mpadded",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-8710590633237742947FREDMARKER<mpadded>hi</mpadded>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER-8710590633237742947FREDMARKERhi"
+  },
+  "2180537479163378909": {
+    "vector": "<mpath>hi</mpath>",
+    "elementname": "mpath",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER2180537479163378909FREDMARKER<mpath>hi</mpath>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER2180537479163378909FREDMARKERhi"
+  },
+  "5220934520380058434": {
+    "vector": "<mphantom>hi</mphantom>",
+    "elementname": "mphantom",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER5220934520380058434FREDMARKER<mphantom>hi</mphantom>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER5220934520380058434FREDMARKERhi"
+  },
+  "-8398390835299272677": {
+    "vector": "<mroot>hi</mroot>",
+    "elementname": "mroot",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-8398390835299272677FREDMARKER<mroot>hi</mroot>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER-8398390835299272677FREDMARKERhi"
+  },
+  "-105361980756283469": {
+    "vector": "<mrow>hi</mrow>",
+    "elementname": "mrow",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-105361980756283469FREDMARKER<mrow>hi</mrow>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER-105361980756283469FREDMARKERhi"
+  },
+  "5681108196976827671": {
+    "vector": "<ms>hi</ms>",
+    "elementname": "ms",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER5681108196976827671FREDMARKER<ms>hi</ms>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER5681108196976827671FREDMARKERhi"
+  },
+  "3335599982398334002": {
+    "vector": "<mspace>hi</mspace>",
+    "elementname": "mspace",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER3335599982398334002FREDMARKER<mspace>hi</mspace>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER3335599982398334002FREDMARKERhi"
+  },
+  "-6635651567300832889": {
+    "vector": "<msqrt>hi</msqrt>",
+    "elementname": "msqrt",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-6635651567300832889FREDMARKER<msqrt>hi</msqrt>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER-6635651567300832889FREDMARKERhi"
+  },
+  "-583861560998474743": {
+    "vector": "<mstyle>hi</mstyle>",
+    "elementname": "mstyle",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-583861560998474743FREDMARKER<mstyle>hi</mstyle>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER-583861560998474743FREDMARKERhi"
+  },
+  "1407837394998820300": {
+    "vector": "<msub>hi</msub>",
+    "elementname": "msub",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER1407837394998820300FREDMARKER<msub>hi</msub>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER1407837394998820300FREDMARKERhi"
+  },
+  "-2590943890844028376": {
+    "vector": "<msubsup>hi</msubsup>",
+    "elementname": "msubsup",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-2590943890844028376FREDMARKER<msubsup>hi</msubsup>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER-2590943890844028376FREDMARKERhi"
+  },
+  "3237561209266464178": {
+    "vector": "<msup>hi</msup>",
+    "elementname": "msup",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER3237561209266464178FREDMARKER<msup>hi</msup>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER3237561209266464178FREDMARKERhi"
+  },
+  "2911593027598260493": {
+    "vector": "<mtable>hi</mtable>",
+    "elementname": "mtable",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER2911593027598260493FREDMARKER<mtable>hi</mtable>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER2911593027598260493FREDMARKERhi"
+  },
+  "-1717011198970155597": {
+    "vector": "<mtd>hi</mtd>",
+    "elementname": "mtd",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-1717011198970155597FREDMARKER<mtd>hi</mtd>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER-1717011198970155597FREDMARKERhi"
+  },
+  "1664118082739259186": {
+    "vector": "<mtext>hi</mtext>",
+    "elementname": "mtext",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER1664118082739259186FREDMARKER<mtext>hi</mtext>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER1664118082739259186FREDMARKERhi"
+  },
+  "-7964406749659788416": {
+    "vector": "<mtr>hi</mtr>",
+    "elementname": "mtr",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-7964406749659788416FREDMARKER<mtr>hi</mtr>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER-7964406749659788416FREDMARKERhi"
+  },
+  "6088593940908778328": {
+    "vector": "<munder>hi</munder>",
+    "elementname": "munder",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER6088593940908778328FREDMARKER<munder>hi</munder>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER6088593940908778328FREDMARKERhi"
+  },
+  "-4122614799097753147": {
+    "vector": "<munderover>hi</munderover>",
+    "elementname": "munderover",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-4122614799097753147FREDMARKER<munderover>hi</munderover>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER-4122614799097753147FREDMARKERhi"
+  },
+  "-5031547995560143016": {
+    "vector": "<nav>hi</nav>",
+    "elementname": "nav",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-5031547995560143016FREDMARKER<nav>hi</nav>",
+    "sanitized": "<nav>hi</nav>",
+    "fullhtml": "0FREDMARKER-5031547995560143016FREDMARKER<nav>hi</nav>"
+  },
+  "-1377311077591426454": {
+    "vector": "<nobr>hi</nobr>",
+    "elementname": "nobr",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-1377311077591426454FREDMARKER<nobr>hi</nobr>",
+    "sanitized": "<nobr>hi</nobr>",
+    "fullhtml": "0FREDMARKER-1377311077591426454FREDMARKER<nobr>hi</nobr>"
+  },
+  "4981992337158409697": {
+    "vector": "<ol>hi</ol>",
+    "elementname": "ol",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER4981992337158409697FREDMARKER<ol>hi</ol>",
+    "sanitized": "<ol>hi</ol>",
+    "fullhtml": "0FREDMARKER4981992337158409697FREDMARKER<ol>hi</ol>"
+  },
+  "-2617016492526205545": {
+    "vector": "<optgroup>hi</optgroup>",
+    "elementname": "optgroup",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-2617016492526205545FREDMARKER<optgroup>hi</optgroup>",
+    "sanitized": "<optgroup>hi</optgroup>",
+    "fullhtml": "0FREDMARKER-2617016492526205545FREDMARKER<optgroup>hi</optgroup>"
+  },
+  "2531314467330086203": {
+    "vector": "<option>hi</option>",
+    "elementname": "option",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER2531314467330086203FREDMARKER<option>hi</option>",
+    "sanitized": "<option>hi</option>",
+    "fullhtml": "0FREDMARKER2531314467330086203FREDMARKER<option>hi</option>"
+  },
+  "5428913607086759723": {
+    "vector": "<output>hi</output>",
+    "elementname": "output",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER5428913607086759723FREDMARKER<output>hi</output>",
+    "sanitized": "<output>hi</output>",
+    "fullhtml": "0FREDMARKER5428913607086759723FREDMARKER<output>hi</output>"
+  },
+  "5873315019568648164": {
+    "vector": "<p>hi</p>",
+    "elementname": "p",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER5873315019568648164FREDMARKER<p>hi</p>",
+    "sanitized": "<p>hi</p>",
+    "fullhtml": "0FREDMARKER5873315019568648164FREDMARKER<p>hi</p>"
+  },
+  "5656322002282496703": {
+    "vector": "<path>hi</path>",
+    "elementname": "path",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER5656322002282496703FREDMARKER<path>hi</path>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER5656322002282496703FREDMARKERhi"
+  },
+  "-1221394844851278758": {
+    "vector": "<pattern>hi</pattern>",
+    "elementname": "pattern",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-1221394844851278758FREDMARKER<pattern>hi</pattern>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER-1221394844851278758FREDMARKERhi"
+  },
+  "861092953943268213": {
+    "vector": "<polygon>hi</polygon>",
+    "elementname": "polygon",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER861092953943268213FREDMARKER<polygon>hi</polygon>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER861092953943268213FREDMARKERhi"
+  },
+  "-3177697416298882659": {
+    "vector": "<polyline>hi</polyline>",
+    "elementname": "polyline",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-3177697416298882659FREDMARKER<polyline>hi</polyline>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER-3177697416298882659FREDMARKERhi"
+  },
+  "-5530631214425718956": {
+    "vector": "<pre>hi</pre>",
+    "elementname": "pre",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-5530631214425718956FREDMARKER<pre>hi</pre>",
+    "sanitized": "<pre>hi</pre>",
+    "fullhtml": "0FREDMARKER-5530631214425718956FREDMARKER<pre>hi</pre>"
+  },
+  "2885403105225096625": {
+    "vector": "<progress>hi</progress>",
+    "elementname": "progress",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER2885403105225096625FREDMARKER<progress>hi</progress>",
+    "sanitized": "<progress>hi</progress>",
+    "fullhtml": "0FREDMARKER2885403105225096625FREDMARKER<progress>hi</progress>"
+  },
+  "1289627087145596173": {
+    "vector": "<q>hi</q>",
+    "elementname": "q",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER1289627087145596173FREDMARKER<q>hi</q>",
+    "sanitized": "<q>hi</q>",
+    "fullhtml": "0FREDMARKER1289627087145596173FREDMARKER<q>hi</q>"
+  },
+  "6402004118589927055": {
+    "vector": "<radialgradient>hi</radialgradient>",
+    "elementname": "radialgradient",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER6402004118589927055FREDMARKER<radialgradient>hi</radialgradient>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER6402004118589927055FREDMARKERhi"
+  },
+  "-1057057623674330517": {
+    "vector": "<rect>hi</rect>",
+    "elementname": "rect",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-1057057623674330517FREDMARKER<rect>hi</rect>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER-1057057623674330517FREDMARKERhi"
+  },
+  "-8257008659193152385": {
+    "vector": "<rp>hi</rp>",
+    "elementname": "rp",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-8257008659193152385FREDMARKER<rp>hi</rp>",
+    "sanitized": "<rp>hi</rp>",
+    "fullhtml": "0FREDMARKER-8257008659193152385FREDMARKER<rp>hi</rp>"
+  },
+  "-9066884305687122089": {
+    "vector": "<rt>hi</rt>",
+    "elementname": "rt",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-9066884305687122089FREDMARKER<rt>hi</rt>",
+    "sanitized": "<rt>hi</rt>",
+    "fullhtml": "0FREDMARKER-9066884305687122089FREDMARKER<rt>hi</rt>"
+  },
+  "4444631695763370376": {
+    "vector": "<ruby>hi</ruby>",
+    "elementname": "ruby",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER4444631695763370376FREDMARKER<ruby>hi</ruby>",
+    "sanitized": "<ruby>hi</ruby>",
+    "fullhtml": "0FREDMARKER4444631695763370376FREDMARKER<ruby>hi</ruby>"
+  },
+  "-7310313830853812504": {
+    "vector": "<s>hi</s>",
+    "elementname": "s",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-7310313830853812504FREDMARKER<s>hi</s>",
+    "sanitized": "<s>hi</s>",
+    "fullhtml": "0FREDMARKER-7310313830853812504FREDMARKER<s>hi</s>"
+  },
+  "6227442838400271427": {
+    "vector": "<samp>hi</samp>",
+    "elementname": "samp",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER6227442838400271427FREDMARKER<samp>hi</samp>",
+    "sanitized": "<samp>hi</samp>",
+    "fullhtml": "0FREDMARKER6227442838400271427FREDMARKER<samp>hi</samp>"
+  },
+  "8121667001978427260": {
+    "vector": "<section>hi</section>",
+    "elementname": "section",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER8121667001978427260FREDMARKER<section>hi</section>",
+    "sanitized": "<section>hi</section>",
+    "fullhtml": "0FREDMARKER8121667001978427260FREDMARKER<section>hi</section>"
+  },
+  "3328803214819810609": {
+    "vector": "<select>hi</select>",
+    "elementname": "select",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER3328803214819810609FREDMARKER<select>hi</select>",
+    "sanitized": "<select>hi</select>",
+    "fullhtml": "0FREDMARKER3328803214819810609FREDMARKER<select>hi</select>"
+  },
+  "-7984325559978703644": {
+    "vector": "<shadow>hi</shadow>",
+    "elementname": "shadow",
+    "sanitized": "hi",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-7984325559978703644FREDMARKER<shadow>hi</shadow>"
+  },
+  "3247177120585202847": {
+    "vector": "<small>hi</small>",
+    "elementname": "small",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER3247177120585202847FREDMARKER<small>hi</small>",
+    "sanitized": "<small>hi</small>",
+    "fullhtml": "0FREDMARKER3247177120585202847FREDMARKER<small>hi</small>"
+  },
+  "1989596630425103782": {
+    "vector": "<source>hi</source>",
+    "elementname": "source",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER1989596630425103782FREDMARKER<source>hi</source>",
+    "sanitized": "<source>hi",
+    "fullhtml": "0FREDMARKER1989596630425103782FREDMARKER<source>hi"
+  },
+  "3714585652295632869": {
+    "vector": "<spacer>hi</spacer>",
+    "elementname": "spacer",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER3714585652295632869FREDMARKER<spacer>hi</spacer>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER3714585652295632869FREDMARKERhi"
+  },
+  "5385953157830551109": {
+    "vector": "<span>hi</span>",
+    "elementname": "span",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER5385953157830551109FREDMARKER<span>hi</span>",
+    "sanitized": "<span>hi</span>",
+    "fullhtml": "0FREDMARKER5385953157830551109FREDMARKER<span>hi</span>"
+  },
+  "-4818834049711181980": {
+    "vector": "<stop>hi</stop>",
+    "elementname": "stop",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-4818834049711181980FREDMARKER<stop>hi</stop>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER-4818834049711181980FREDMARKERhi"
+  },
+  "4591286970668435893": {
+    "vector": "<strike>hi</strike>",
+    "elementname": "strike",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER4591286970668435893FREDMARKER<strike>hi</strike>",
+    "sanitized": "<strike>hi</strike>",
+    "fullhtml": "0FREDMARKER4591286970668435893FREDMARKER<strike>hi</strike>"
+  },
+  "-4131291544066537700": {
+    "vector": "<strong>hi</strong>",
+    "elementname": "strong",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-4131291544066537700FREDMARKER<strong>hi</strong>",
+    "sanitized": "<strong>hi</strong>",
+    "fullhtml": "0FREDMARKER-4131291544066537700FREDMARKER<strong>hi</strong>"
+  },
+  "-6146467600711270859": {
+    "vector": "<style>hi</style>",
+    "elementname": "style",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-6146467600711270859FREDMARKER<style>hi</style>",
+    "sanitized": "<style>hi</style>",
+    "fullhtml": "0FREDMARKER-6146467600711270859FREDMARKER<style>hi</style>"
+  },
+  "-7506705874769062849": {
+    "vector": "<sub>hi</sub>",
+    "elementname": "sub",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-7506705874769062849FREDMARKER<sub>hi</sub>",
+    "sanitized": "<sub>hi</sub>",
+    "fullhtml": "0FREDMARKER-7506705874769062849FREDMARKER<sub>hi</sub>"
+  },
+  "898008595171496028": {
+    "vector": "<summary>hi</summary>",
+    "elementname": "summary",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER898008595171496028FREDMARKER<summary>hi</summary>",
+    "sanitized": "<summary>hi</summary>",
+    "fullhtml": "0FREDMARKER898008595171496028FREDMARKER<summary>hi</summary>"
+  },
+  "-6648155390045798774": {
+    "vector": "<sup>hi</sup>",
+    "elementname": "sup",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-6648155390045798774FREDMARKER<sup>hi</sup>",
+    "sanitized": "<sup>hi</sup>",
+    "fullhtml": "0FREDMARKER-6648155390045798774FREDMARKER<sup>hi</sup>"
+  },
+  "6779941899043538358": {
+    "vector": "<svg>hi</svg>",
+    "elementname": "svg",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER6779941899043538358FREDMARKER<svg>hi</svg>",
+    "sanitized": "<svg>hi</svg>",
+    "fullhtml": "0FREDMARKER6779941899043538358FREDMARKER<svg>hi</svg>"
+  },
+  "2558018143210375419": {
+    "vector": "<switch>hi</switch>",
+    "elementname": "switch",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER2558018143210375419FREDMARKER<switch>hi</switch>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER2558018143210375419FREDMARKERhi"
+  },
+  "4095483046899871773": {
+    "vector": "<symbol>hi</symbol>",
+    "elementname": "symbol",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER4095483046899871773FREDMARKER<symbol>hi</symbol>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER4095483046899871773FREDMARKERhi"
+  },
+  "7046514074842140014": {
+    "vector": "<table>hi</table>",
+    "elementname": "table",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER7046514074842140014FREDMARKER<table>hi</table>",
+    "sanitized": "<table></table>hi",
+    "fullhtml": "0FREDMARKER7046514074842140014FREDMARKER<table></table>hi"
+  },
+  "-6401088029647136355": {
+    "vector": "<tbody>hi</tbody>",
+    "elementname": "tbody",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-6401088029647136355FREDMARKER<tbody>hi</tbody>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER-6401088029647136355FREDMARKERhi"
+  },
+  "6835548673570542423": {
+    "vector": "<td>hi</td>",
+    "elementname": "td",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER6835548673570542423FREDMARKER<td>hi</td>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER6835548673570542423FREDMARKERhi"
+  },
+  "-2193325994385375859": {
+    "vector": "<template>hi</template>",
+    "elementname": "template",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-2193325994385375859FREDMARKER<template>hi</template>",
+    "sanitized": "",
+    "fullhtml": "0FREDMARKER-2193325994385375859FREDMARKER"
+  },
+  "-462629413817877751": {
+    "vector": "<text>hi</text>",
+    "elementname": "text",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-462629413817877751FREDMARKER<text>hi</text>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER-462629413817877751FREDMARKERhi"
+  },
+  "-7323424396859504143": {
+    "vector": "<textarea>hi</textarea>",
+    "elementname": "textarea",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-7323424396859504143FREDMARKER<textarea>hi</textarea>",
+    "sanitized": "<textarea>hi</textarea>",
+    "fullhtml": "0FREDMARKER-7323424396859504143FREDMARKER<textarea>hi</textarea>"
+  },
+  "-8055905893411529161": {
+    "vector": "<textpath>hi</textpath>",
+    "elementname": "textpath",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-8055905893411529161FREDMARKER<textpath>hi</textpath>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER-8055905893411529161FREDMARKERhi"
+  },
+  "-7831304331964317190": {
+    "vector": "<tfoot>hi</tfoot>",
+    "elementname": "tfoot",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-7831304331964317190FREDMARKER<tfoot>hi</tfoot>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER-7831304331964317190FREDMARKERhi"
+  },
+  "-6948747542120287457": {
+    "vector": "<th>hi</th>",
+    "elementname": "th",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-6948747542120287457FREDMARKER<th>hi</th>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER-6948747542120287457FREDMARKERhi"
+  },
+  "-3695753124735129889": {
+    "vector": "<thead>hi</thead>",
+    "elementname": "thead",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-3695753124735129889FREDMARKER<thead>hi</thead>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER-3695753124735129889FREDMARKERhi"
+  },
+  "1003486327459387050": {
+    "vector": "<time>hi</time>",
+    "elementname": "time",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER1003486327459387050FREDMARKER<time>hi</time>",
+    "sanitized": "<time>hi</time>",
+    "fullhtml": "0FREDMARKER1003486327459387050FREDMARKER<time>hi</time>"
+  },
+  "-491718515951468725": {
+    "vector": "<title>hi</title>",
+    "elementname": "title",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-491718515951468725FREDMARKER<title>hi</title>",
+    "sanitized": "",
+    "fullhtml": "0FREDMARKER-491718515951468725FREDMARKER"
+  },
+  "-3129106252473964676": {
+    "vector": "<tr>hi</tr>",
+    "elementname": "tr",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-3129106252473964676FREDMARKER<tr>hi</tr>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER-3129106252473964676FREDMARKERhi"
+  },
+  "1337775277134722019": {
+    "vector": "<track>hi</track>",
+    "elementname": "track",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER1337775277134722019FREDMARKER<track>hi</track>",
+    "sanitized": "<track>hi",
+    "fullhtml": "0FREDMARKER1337775277134722019FREDMARKER<track>hi"
+  },
+  "8014508243383472796": {
+    "vector": "<tref>hi</tref>",
+    "elementname": "tref",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER8014508243383472796FREDMARKER<tref>hi</tref>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER8014508243383472796FREDMARKERhi"
+  },
+  "6653692308100142632": {
+    "vector": "<tspan>hi</tspan>",
+    "elementname": "tspan",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER6653692308100142632FREDMARKER<tspan>hi</tspan>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER6653692308100142632FREDMARKERhi"
+  },
+  "-463679086732256992": {
+    "vector": "<tt>hi</tt>",
+    "elementname": "tt",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-463679086732256992FREDMARKER<tt>hi</tt>",
+    "sanitized": "<tt>hi</tt>",
+    "fullhtml": "0FREDMARKER-463679086732256992FREDMARKER<tt>hi</tt>"
+  },
+  "-9080608210221755583": {
+    "vector": "<u>hi</u>",
+    "elementname": "u",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-9080608210221755583FREDMARKER<u>hi</u>",
+    "sanitized": "<u>hi</u>",
+    "fullhtml": "0FREDMARKER-9080608210221755583FREDMARKER<u>hi</u>"
+  },
+  "-2639581331552580466": {
+    "vector": "<ul>hi</ul>",
+    "elementname": "ul",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-2639581331552580466FREDMARKER<ul>hi</ul>",
+    "sanitized": "<ul>hi</ul>",
+    "fullhtml": "0FREDMARKER-2639581331552580466FREDMARKER<ul>hi</ul>"
+  },
+  "2349412834205201037": {
+    "vector": "<var>hi</var>",
+    "elementname": "var",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER2349412834205201037FREDMARKER<var>hi</var>",
+    "sanitized": "<var>hi</var>",
+    "fullhtml": "0FREDMARKER2349412834205201037FREDMARKER<var>hi</var>"
+  },
+  "-5817137797390912304": {
+    "vector": "<video>hi</video>",
+    "elementname": "video",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-5817137797390912304FREDMARKER<video>hi</video>",
+    "sanitized": "<video controls=\"\">hi</video>",
+    "fullhtml": "0FREDMARKER-5817137797390912304FREDMARKER<video controls=\"\">hi</video>"
+  },
+  "-4349608291988472499": {
+    "vector": "<view>hi</view>",
+    "elementname": "view",
+    "sanitized": "hi",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-4349608291988472499FREDMARKER<view>hi</view>"
+  },
+  "-5850029719687370857": {
+    "vector": "<vkern>hi</vkern>",
+    "elementname": "vkern",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-5850029719687370857FREDMARKER<vkern>hi</vkern>",
+    "sanitized": "hi",
+    "fullhtml": "0FREDMARKER-5850029719687370857FREDMARKERhi"
+  },
+  "-4066786826853482600": {
+    "vector": "<wbr>hi</wbr>",
+    "elementname": "wbr",
+    "full": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">0FREDMARKER-4066786826853482600FREDMARKER<wbr>hi</wbr>",
+    "sanitized": "<wbr>hi",
+    "fullhtml": "0FREDMARKER-4066786826853482600FREDMARKER<wbr>hi"
+  }
+}
